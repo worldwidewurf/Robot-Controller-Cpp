@@ -31,7 +31,7 @@ g++ -o robotController main.cpp
 ./robotController  
 ```  
   
-Usage  
+### Usage  
 The Robot Controller accepts the following commands:  
   
 **OFF:** Shut down the robot.  
