@@ -1,4 +1,4 @@
-# Robot Controller With Cpp  
+# Robot Controller | C++
 
 ## Introduction  
 The Robot Controller is a C++ program that simulates a robot's movements based on user commands. The robot can move in different directions and perform various actions.  
